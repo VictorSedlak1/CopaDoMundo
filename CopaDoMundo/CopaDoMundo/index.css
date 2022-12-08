@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
 
 .fundo{
-    background-color: white
+    background-color: rgb(0, 0, 0)
 }
 
 .cor2{
-    background-color: black;
+    background-color: white;
 }
 
 .tamanho{
@@ -15,15 +15,29 @@
 }
 .logo{
     font-size: 30px !important;
-    color: red !important;
+    color: white !important;
     
 }
 
 .tamanho2{
     height: 500px !important;
 }
+.tamanho2 img {
+    height: 500px;
+    
+}
 
 .card{
     height: 500px;
 }
+
+.cores{
+    background-color: #75010b !important;
+}
+
+.nav-link{
+    color: white;
+}
+
+
 
