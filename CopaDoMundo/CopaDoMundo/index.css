@@ -33,7 +33,8 @@
 }
 
 .card{
-    height: 500px;
+    height: 180px;
+    text-align: center;
 }
 
 .cores{
@@ -73,8 +74,45 @@
 .tamanho3{
     margin-top: 40px;
     border-radius: 20px 20px 20px 20px;
+
+}
+
+.table{
+    border: solid #75010b ;
+}
+
+.container1{
+    font-family: 'Exo', sans-serif;
+}
+
+.posicao{
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+    margin-top: 20px;
+    font-size: 70px;
+}
+
+.tudo{
+    font-family: 'Exo', sans-serif;  
     
 }
+
+.card-body{
+    background-color: #75010b;
+    height: 20px !important;
+}
+
+.card2{
+    margin-top: 20px;
+    height: 350px !important;
+}
+
+.card2 p{
+    color: white !important;
+}
+
+
+
 
 
 
